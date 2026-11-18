@@ -18,15 +18,7 @@ This repository contains one model for homogeneous canopies and five models for 
 
 Each model produces one scalar output per input row.
 
-## 2. Installation
-
-Model loading and inference have been tested with Python 3.12 and TensorFlow 2.16.2.
-
-```bash
-pip install tensorflow-cpu==2.16.2 numpy
-```
-
-## 3. Model inputs
+## 2. Model inputs
 
 `test-input.txt` is a comma-separated test file that can be supplied directly to Row-structured .h5 model, but it just a test file. Its **15 columns must remain in this order**:
 
@@ -46,7 +38,13 @@ pip install tensorflow-cpu==2.16.2 numpy
 
 The homogeneous model accepts 12 inputs **(without Row Width, Plant Height and Ridge Spacing)**; the row models accept all 15 inputs.
 
-## 4. Quick start
+## 3. Quick start
+
+Model loading and inference have been tested with Python 3.12 and TensorFlow 2.16.2.
+
+```bash
+pip install tensorflow-cpu==2.16.2 numpy
+```
 
 Place `.h5` in `models/` and `test-input.txt` in `data/`, then run:
 
