@@ -1,4 +1,4 @@
-LAI,HSPOT,Row Width,Plant Height,Ridge Spacing,sin(TTS),cos(TTS),sin(TTO),cos(TTO),sin(RAA),cos(RAA),LIDFA,LIDFB,Wavelength(nm),BRF
+LAI,HSPOT,Row Width,Plant Height,Ridge Spacing,sin(SZA),cos(SZA),sin(VZA),cos(VZA),sin(RAA),cos(RAA),LIDFA,LIDFB,Wavelength(nm),BRF
 3.3,0.13,1.0,1.9,1.2,0.454,0.891,0.9848,0.1736,0.0,-1.0,1,0,404.31,0.0159
 3.3,0.13,1.0,1.9,1.2,0.454,0.891,0.9848,0.1736,0.0,-1.0,1,0,412.93,0.016
 3.3,0.13,1.0,1.9,1.2,0.454,0.891,0.9848,0.1736,0.0,-1.0,1,0,421.55,0.0167
