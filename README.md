@@ -9,12 +9,12 @@ This repository contains one model for homogeneous canopies and five models for 
 
 | Model file | Canopy scenario | Input variables |
 | --- | --- | ---: |
-| `model100.h5` | Homogeneous | 12 |
-| `extremophile.h5` | Row-structured, extremophile LAD | 15 |
-| `plagiophile.h5` | Row-structured, plagiophile LAD | 15 |
-| `planophile.h5` | Row-structured, planophile LAD | 15 |
-| `spherical.h5` | Row-structured, spherical LAD | 15 |
-| `uniform.h5` | Row-structured, uniform LAD | 15 |
+| `RT-NET-homogeneous.h5` | Homogeneous | 12 |
+| `RT-NET-extremophile.h5` | Row-structured, extremophile LAD | 15 |
+| `RT-NET-plagiophile.h5` | Row-structured, plagiophile LAD | 15 |
+| `RT-NET-planophile.h5` | Row-structured, planophile LAD | 15 |
+| `RT-NET-spherical.h5` | Row-structured, spherical LAD | 15 |
+| `RT-NET-uniform.h5` | Row-structured, uniform LAD | 15 |
 
 Each model produces one scalar output per input row.
 
