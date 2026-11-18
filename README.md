@@ -85,4 +85,4 @@ This example reads the test file as provided and saves one prediction per input 
 
 ## Citation
 
-[RT-Net: A Deep Learning-Based Emulator Bridging 1D and 3D Radiative Transfer Models for Efficient and Accurate Canopy BRF Simulation. **In Review**]
+[RT-Net: A Deep Learning-Based Emulator Bridging 1D and 3D Radiative Transfer Models for Efficient and Accurate Canopy BRF Simulation. **Under Review**]
