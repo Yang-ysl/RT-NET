@@ -31,7 +31,7 @@ Each model produces one scalar output per input row.
 | 5 | `Ridge Spacing` | Ridge spacing |
 | 6–7 | `sin(TTS)`, `cos(TTS)` | Sine and cosine of the solar zenith angle |
 | 8–9 | `sin(TTO)`, `cos(TTO)` | Sine and cosine of the viewing zenith angle |
-| 10–11 | `sin(VAA)`, `cos(VAA)` | Sine and cosine of the azimuth angle used in training |
+| 10–11 | `sin(RAA)`, `cos(RAA)` | Sine and cosine of the azimuth angle used in training |
 | 12–13 | `LIDFA`, `LIDFB` | Leaf angle distribution parameters |
 | 14 | `Wavelength(nm)` | Actual wavelength (nm) corresponding to the Semi-LESS feature band |
 | 15 | `BRF` | Corresponding PROSAIL input BRF |
